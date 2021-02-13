@@ -1,6 +1,16 @@
-# Notes
+# Next Steps
 
 - Install git software on PC
 - Install Visual Studio Code editor
 - Clone this repo
 - Edit the index page and push the change
+
+# Notes
+git clone https://github.com/peter-a-field/hello-html.git
+edit the file 
+
+git status
+git log # list the committed changes
+
+git add . # add all changes from current folder ready for commit
+git commit -m "Add 3nd paragraph"
